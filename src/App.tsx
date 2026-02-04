@@ -1,6 +1,6 @@
 //import { useState, useEffect } from 'react'
 import './App.css'
-import About from './pages/Home';
+import About from './pages/About';
 
 
 
