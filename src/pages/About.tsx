@@ -1,5 +1,5 @@
-import Testimonials from "./components/Testimonials";
-import "./index.css";
+import Testimonials from "../components/Testimonials";
+
 const About = ()=>{
     return(
         <>
