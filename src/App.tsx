@@ -1,10 +1,12 @@
-import Testimonials from "./components/Testimonials";
+import { Outlet } from "react-router-dom";
 import "./index.css";
 const About = ()=>{
     return(
-        <>
-            <Testimonials/>
-        </>
+        <div>
+            <main>
+                <Outlet/>
+            </main>
+        </div>
     )
 }
 

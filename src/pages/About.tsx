@@ -1,9 +1,8 @@
-import Testimonials from "../components/Testimonials";
 
 const About = ()=>{
     return(
         <>
-            <Testimonials/>
+            <h1 className="text-center mt-60">This is a about page.</h1>
         </>
     )
 }
